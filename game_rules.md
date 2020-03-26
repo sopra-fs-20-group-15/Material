@@ -1,4 +1,4 @@
-### Game Rules
+### Distribution of Points
 
 Basic idea: There are three distinct mechanisms that influence a players score:
 
